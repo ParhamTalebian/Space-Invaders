@@ -32,7 +32,7 @@ public:
 
 public slots:
 
-
+void displaySettingsMenu();
 
 
 
